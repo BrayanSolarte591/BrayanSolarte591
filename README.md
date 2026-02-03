@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hola, soy Brayan Solarte
 
-<!--
-**BrayanSolarte591/BrayanSolarte591** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería de Datos e Inteligencia Artificial
+📊 Interesado en Big Data, ETL y análisis de datos  
+🐍 Python | 🛢️ SQL | 📈 Pandas | 🔄 ETL  
 
-Here are some ideas to get you started:
+### 🚀 Proyectos Destacados
+- 🔹 ETL con Python y PostgreSQL
+- 🔹 Análisis de datos 
+- 🔹 API REST para gestión de datos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Actualmente aprendiendo
+- Apache Spark
+- Data Warehousing
+- Cloud (GCP / AWS)
+
+### 📫 Contacto
+- LinkedIn: solartebrayan16@gmail.com
